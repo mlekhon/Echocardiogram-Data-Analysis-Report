@@ -5,8 +5,10 @@ The dataset contains echocardiogram records of patients, which are crucial for u
 # Data Overview
 Total Records: 131
 Features: 13 (including age, survival status, heart condition metrics)
-Missing Values: Some columns have missing values, with group missing the most (57 missing entries).
+Missing Values: Some columns have missing values, with the group missing the most (57 missing entries).
+
 # Key Statistics and Findings
+
 # 1. Age:
 Mean Age: 22.18 years
 Range: 0.03 - 57 years
